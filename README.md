@@ -3,7 +3,7 @@
 ## Hi, I'm Đoàn Quốc Dũng 
 ## Website Developer 👨‍💻
 
-[![](https://img.shields.io/badge/Gmail-ashrafkm010%40gmail.com-red)](mailto:doanquocdung55@gmail.com)
+//[![](https://img.shields.io/badge/Gmail-ashrafkm010%40gmail.com-red)](mailto:doanquocdung55@gmail.com)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
