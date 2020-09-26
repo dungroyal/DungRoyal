@@ -10,8 +10,8 @@ const dungroyal = {
     pronouns: "He" | "Him",
     askMeAbout: ["web dev"],
     technologies:{
-        backEnd: ["PHP"],
-        fronEnd: ["angularJS","VueJS"],
+        backEnd: ["PHP","Java"],
+        fronEnd: ["Bootstrap","AngularJS","VueJS","HTML&CSS"],
         database: ["mySql"],
         misc: ["Firebase", "Socket.IO"]
     }
